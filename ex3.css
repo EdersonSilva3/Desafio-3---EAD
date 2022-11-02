@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-image: url("img/estacoes.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+h1{
+    margin-top: 10%;
+}
+
+option, select{
+    width: 25%;
+    font-size: 1rem;
+}
+
+fieldset{
+    width: 40%;
+    height: 40%;
+    margin: 14% auto;
+}
+
+button{
+    margin-left: 2%;
+    cursor: pointer;
+    margin-bottom:  5%;
+    background-color:khaki;
+    width: 25%;
+}
+
+.result{
+    font-size: 2rem;
+    margin-bottom: 7%;
+}
+
+fieldset{
+    background-color: lightblue;
+    border: solid 5px;
+}
